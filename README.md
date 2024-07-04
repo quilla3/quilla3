@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently a master of computer science candidate working on web development and business analysis.  
-🌱 I’m currently learning software engineering and cybersecurity.  
-👯 I’m looking to collaborate on web development and data analytics projects.  
+🌱 I’m currently a master of computer science candidate learning software engineering and cybersecurity.  
+👯 I’m looking to collaborate on web development or data analytics projects.  
