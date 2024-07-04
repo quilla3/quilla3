@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 🔭 I’m currently a master of computer science candidate working on web development and business analysis.  
 🌱 I’m currently learning software engineering and cybersecurity.  
 👯 I’m looking to collaborate on web development and data analytics projects.  
-💬 Ask me about performance/growth marketing, ads tracking, and online marketing tools.  
