@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently a master of computer science candidate learning software engineering and cybersecurity.  
-👯 I’m looking to collaborate on business or data analytics projects.  
